@@ -1,3 +1,3 @@
 # example
 
-This is an example! The example has words.
+This is an example! The example has meaningless words.
